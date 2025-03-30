@@ -6,4 +6,4 @@ I’m here because I *enjoy* creating things: sometimes things you can find in s
 
 Expect a lack of instructions, some “experimental” wiring, and an open invitation to follow me down the rabbit hole of 3D-printed jank. If any of this breaks mid-project (or you do), remember: this is all part of the process.
 
-If you have any questions, suggestions, or need emotional support, please don't reach out.
+If you have any questions, suggestions, or need crisis hotline for solder burns, please don't reach out.
